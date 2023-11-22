@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "848963123165",
+    "project_id": "rescuemapver2",
+    "storage_bucket": "rescuemapver2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848963123165:android:5ef12516f6802ef56d6834",
+        "android_client_info": {
+          "package_name": "com.example.rescuemapv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0VyzJWyPh8dknEN4ynYid7C4tuaS0Obg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
